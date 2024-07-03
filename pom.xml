@@ -17,7 +17,7 @@
     <description>Getting started with Testcontainers in a Java SpringBoot Project</description>
     <properties>
         <java.version>21</java.version>
-        <karate.version>1.4.0</karate.version>
+        <karate.version>1.4.1</karate.version>
         <maven.compiler.version>3.6.0</maven.compiler.version>
         <maven.surefire.version>3.0.0</maven.surefire.version>
 
